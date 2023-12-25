@@ -222,7 +222,7 @@ p {
 
 .hero-media a {
   text-decoration: none;
-  color: #ffffffa1;
+  color: #ffffff41;
   font-size: 70px;
   transition: all 1s ease;
 }
@@ -244,12 +244,7 @@ p {
 }
 
 
-.hero-media a {
-  text-decoration: none;
-  color: #ffffff13;
-  font-size: 150px;
-  transition: all 1s ease;
-}
+
 
 .hero-media a:hover {
   color: #F4F5F5;
@@ -305,6 +300,14 @@ p {
     padding: 40px;
   }
 
+
+
+  .hero-media a {
+    text-decoration: none;
+    color: #ffffff13;
+    font-size: 150px;
+    transition: all 1s ease;
+  }
 
   .hero-media .media-sideA {
     top: 90%;
