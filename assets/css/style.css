@@ -102,6 +102,7 @@ p {
 
 .hero {
   height: 210vh;
+  overflow: hidden;
 }
 
 .hey {
@@ -242,17 +243,15 @@ p {
 
 .hero-media .media-sideA {
   position: absolute;
-  top: 190%;
+  top: 185%;
   left: 15%;
 }
 
 .hero-media .media-sideB {
   position: absolute;
-  top: 205%;
+  top: 200%;
   right: 15%;
 }
-
-
 
 
 .hero-media a:hover {
@@ -263,6 +262,7 @@ p {
 @media (min-width: 768px) {
   .hero {
     height: 170vh;
+    overflow: hidden;
   }
 
   .hey {
@@ -482,6 +482,7 @@ p {
 
   .Featured-products {
     padding: 100px 0;
+    overflow: hidden;
   }
 
   .Featured-products-content {
@@ -703,6 +704,7 @@ p {
 @media (min-width: 768px) {
   .about {
     padding: 100px 0;
+    overflow: hidden;
   }
 
   .underimagecircle ul li:first-child {
@@ -883,13 +885,13 @@ p {
 
 .footer-media .media-sideA {
   position: absolute;
-  top: 75%;
+  top: 65%;
   left: 5%;
 }
 
 .footer-media .media-sideB {
   position: absolute;
-  top: 90%;
+  top: 85%;
   right: 5%;
 }
 
